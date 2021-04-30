@@ -91,7 +91,7 @@ Having an understanding of the different Agile frameworks can help you better ut
 
 See additional resources below:
 
-https://www.scrum.org
+(https://www.scrum.org)
 https://www.cprime.com/resources/what-is-agile-what-is-scrum
 https://www.digite.com/kanban/what-is-kanban
 https://en.wikiversity.org/wiki/Crystal_Methods
