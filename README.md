@@ -76,3 +76,29 @@ OpenProject Icon Font by the OpenProject Foundation (OPF) is licensed under Crea
 and Free for both personal and commercial use. You can copy, adapt, remix, distribute or transmit it.
 
 Under this condition: provide a mention of the "OpenProject Foundation" and a link back to OpenProject www.openproject.org.
+
+
+## Agile Frameworks
+
+Having an understanding of the different Agile frameworks can help you better utilize the Agile side of OpenProject. Agile is a methodology that is focused on iterative and incremental approaches for software development. There are framework variations of the Agile which include but are not limited to Scrum, Kanban, Crystal, Dynamice Systems Development, Feature-Driven Development, and Scaled Agile Frameworks (SAFe). Each framework is unique with a brief synopsis below:
+
+-Scrum: being delivery-focused, using sprint timeboxes and ceremonies to help manage a team's work.
+-Kanban: uses real-time team communication and transparency of the state of all the team's work, where the team is not constrained to timeboxes.
+-Crystal: is a flexible frameworks that does not rely on specific processes or tools but rather allows teams to choose how they deem is most effective for them
+-Dynamic Systems Development: focused on full project lifecycle, having the ideology that project must be aligned with clear strategic goals and focus on early delivery of benefits to the business
+-Feature-Driven Development: being feature-focused, constrained by time boxes to develop models; build feature lists; plan by feature; design by feature; and build by feature
+-SAFe: helps complex organizations with Lean-Agile methods at scale
+
+See additional resources below:
+
+https://www.scrum.org/
+https://www.cprime.com/resources/what-is-agile-what-is-scrum/
+https://www.digite.com/kanban/what-is-kanban/
+https://en.wikiversity.org/wiki/Crystal_Methods
+https://en.wikipedia.org/wiki/Dynamic_systems_development_method
+https://en.wikipedia.org/wiki/Feature-driven_development
+https://www.scaledagile.com/enterprise-solutions/what-is-safe/
+
+
+
+
