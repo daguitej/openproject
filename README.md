@@ -91,12 +91,18 @@ Having an understanding of the different Agile frameworks can help you better ut
 
 See additional resources below:
 
-[Scrum] (https://www.scrum.org)
+https://www.scrum.org
+
 https://www.cprime.com/resources/what-is-agile-what-is-scrum
+
 https://www.digite.com/kanban/what-is-kanban
+
 https://en.wikiversity.org/wiki/Crystal_Methods
+
 https://en.wikipedia.org/wiki/Dynamic_systems_development_method
+
 https://en.wikipedia.org/wiki/Feature-driven_development
+
 https://www.scaledagile.com/enterprise-solutions/what-is-safe
 
 
