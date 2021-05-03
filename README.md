@@ -80,7 +80,7 @@ Under this condition: provide a mention of the "OpenProject Foundation" and a li
 
 ## Agile Frameworks
 
-Having an understanding of the different Agile frameworks can help you better utilize the Agile side of OpenProject. Agile is a methodology that is focused on iterative and incremental approaches for software development. There are framework variations of the Agile. Please link the linked document below to get a better understanding of what software processes are out there that you can use while working with OpenProject.
+Having an understanding of the different Agile frameworks can help you better utilize the Agile side of OpenProject. Agile is a methodology that is focused on iterative and incremental approaches for software development. There are framework variations of the Agile. Please click the linked document below to get a better understanding of what software processes are available that you can use while working with OpenProject.
 
 https://github.com/daguitej/openproject/blob/dev/agile%20frameworks.pdf
 
